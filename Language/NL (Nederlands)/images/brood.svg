@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" role="img" aria-label="a loaf of bread">
+  <path d="M14 70 C14 44 36 34 60 34 C84 34 106 44 106 70 L106 84 C106 90 102 94 96 94 L24 94 C18 94 14 90 14 84 Z" fill="#c8842f"/>
+  <path d="M20 66 C22 48 40 40 60 40 C80 40 98 48 100 66 C84 60 72 58 60 58 C48 58 36 60 20 66 Z" fill="#e8ac5c"/>
+  <path d="M38 48 L46 60 M56 46 L64 58 M74 48 L82 60" fill="none" stroke="#9a5f1c" stroke-width="4" stroke-linecap="round"/>
+</svg>
